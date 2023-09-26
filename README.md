@@ -1,2 +1,2 @@
 # CandCpp
-Sample C and C++ Programs with varying difficulty and scope (OOP and DSA)
+Sample Object Oriented Programming (OOP) in C++ and Data Structures Programs in C
