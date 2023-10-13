@@ -1,2 +1,2 @@
-# CandCpp
-Sample Object Oriented Programming (OOP) in C++ and Data Structures Programs in C
+# Cpp
+Sample Object Oriented Programming (OOP) programs in C++ 
